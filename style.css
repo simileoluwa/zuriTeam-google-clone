@@ -107,6 +107,7 @@ nav ul li a:hover {
 }
 
 .repo-wrapper {
+  text-align: center;
 }
 .repo-link {
   color: #ff0000;
